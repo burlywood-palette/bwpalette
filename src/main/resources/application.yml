@@ -1,0 +1,2 @@
+color-pallet:
+  count: ${IMAGE_PROCCESING_COLOR_PALLET_COUNT:10}
