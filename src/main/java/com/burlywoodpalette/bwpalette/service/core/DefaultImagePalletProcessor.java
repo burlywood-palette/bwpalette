@@ -1,5 +1,6 @@
 package com.burlywoodpalette.bwpalette.service.core;
 
+import com.burlywoodpalette.bwpalette.dto.ImagePallet;
 import de.androidpit.colorthief.ColorThief;
 import de.androidpit.colorthief.MMCQ.CMap;
 import de.androidpit.colorthief.MMCQ.VBox;

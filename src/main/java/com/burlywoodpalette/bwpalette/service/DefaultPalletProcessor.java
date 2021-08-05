@@ -1,7 +1,7 @@
 package com.burlywoodpalette.bwpalette.service;
 
 import com.burlywoodpalette.bwpalette.config.PalletImageProps;
-import com.burlywoodpalette.bwpalette.service.core.ImagePallet;
+import com.burlywoodpalette.bwpalette.dto.ImagePallet;
 import com.burlywoodpalette.bwpalette.service.core.ImagePalletProcessor;
 import java.awt.image.BufferedImage;
 import java.io.InputStream;

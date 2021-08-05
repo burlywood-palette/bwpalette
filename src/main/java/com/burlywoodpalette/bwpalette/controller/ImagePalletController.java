@@ -2,8 +2,8 @@ package com.burlywoodpalette.bwpalette.controller;
 
 import static org.springframework.http.MediaType.MULTIPART_FORM_DATA_VALUE;
 
+import com.burlywoodpalette.bwpalette.dto.ImagePallet;
 import com.burlywoodpalette.bwpalette.service.PalletProcessor;
-import com.burlywoodpalette.bwpalette.service.core.ImagePallet;
 import com.burlywoodpalette.bwpalette.util.DataHelper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.codec.multipart.FilePart;

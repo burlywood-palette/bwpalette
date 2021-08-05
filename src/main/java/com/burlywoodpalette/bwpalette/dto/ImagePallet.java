@@ -1,4 +1,4 @@
-package com.burlywoodpalette.bwpalette.service.core;
+package com.burlywoodpalette.bwpalette.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
