@@ -1,2 +1,5 @@
+server:
+  port: 8090
+
 color-pallet:
   count: ${IMAGE_PROCCESING_COLOR_PALLET_COUNT:10}

@@ -16,7 +16,7 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 @RestController
-@RequestMapping("/api/image-pallet")
+@RequestMapping("/api/v1/image-pallet")
 public class ImagePalletController {
 
   private final PalletProcessor palletProcessor;
